@@ -20,3 +20,6 @@ Currently the following functionalities will be implemented:
     - Global templating engine
 - Mongo
     - Stores data about teams, users, and channels
+
+## Action Items
+See GitHub [Issues](https://github.com/gluo7777/Slack-Utility-Bot/issues)
