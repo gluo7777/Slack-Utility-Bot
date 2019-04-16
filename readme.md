@@ -11,6 +11,13 @@ Currently the following functionalities will be implemented:
 - Slack Application
     - OAuth Endpoints @/oauth
     - Interactive Components (Dialog, Menu, Buttons) @/slack/receive
+    - Bot User @plzdo
+    - Event Subscriptions (Workplace)
+    - Event Subscriptions (Bot User)
+        - message.im: A message was posted in a direct message channel
+        - message.groups: A message was posted to a private channel
+        - message.channels: A message was posted to a channel
+        - message.mpim: A message was posted in a multiparty direct message channel
 - BotKit
     - Handles conversations, request/response middleware injection, event listeners
 - Express
